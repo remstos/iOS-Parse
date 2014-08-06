@@ -20,10 +20,11 @@ git clone https://github.com/Kemcake/iOS-Parse.git
 ```
 
 - If this is the first time you're using CocoaPods
-For more information about cocoapods -> http://cocoapods.org
 ```
 sudo gem install cocoapods
 ```
+  *For more information about cocoapods -> http://cocoapods.org*
+
 - Install pods (run this in the project folder)
 ```
 pod install
